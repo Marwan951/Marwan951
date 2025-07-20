@@ -8,8 +8,8 @@
  Mr.Marwan@GitHub
  ------------------------------------------------------------------------------
  Name: Marwan Salah
- Education: Graduated from *Faculty of Computers and Information Sciences*
+ Education: Graduated from the *Faculty of Computers and Information Sciences*
  Department: Computer Science (CS)
  University: Ain Shams University
- Interests: ["SDLC", "Testing", "CyberSecurity", "Linux", "AI-ML"]
+ Interests: ["Software Development", "Testing", "Data Management", "Backend-development ", "AI-ML"]
   ```
